@@ -11,15 +11,7 @@ while True:
   computer_move = random.choice(move_list)
 
   # draw
-  if human_move == "rock" and computer_move == "rock":
-    print("Draw!")
-  if human_move == "paper" and computer_move == "paper":
-    print("Draw!")
-  if human_move == "scissors" and computer_move == "scissors":
-    print("Draw!")
-  if human_move == "lizard" and computer_move == "lizard":
-    print("Draw!")
-  if human_move == "spock" and computer_move == "spock":
+  if human_move == computer_move:
     print("Draw!")
 
   # scissors & paper
