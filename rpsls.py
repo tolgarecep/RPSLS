@@ -10,7 +10,7 @@ while True:
   import random
   computer_move = random.choice(move_list)
 
-  # draw
+  # deduplicated draw possibilities
   if human_move == computer_move:
     print("Draw!")
 
