@@ -13,4 +13,4 @@ decapitates lizard, lizard eats paper, paper disproves spock, spock vaporizes ro
 The first large-scale study about people playing rock-paper-scissors reveal a way to beat the game. Researchers found that people made random decisions only 1/3 of the time
 they played rock-paper-scissors (RPS), and the rest of the time they changed their preferences based on their winning and losing status in the previous game. In other words, in
 the RPS game, the winner of the game repeats the previous winning behavior more often, while the losers prefer the move that will beat the previous one. This is not the case when
-you play with computer programmed to pick one of the moves randomly but given that we know so little about randomness, it worths a try.
+you play with computer programmed to pick based on a chaotic randomness guideline but with a human opponent, it worths a shot.
